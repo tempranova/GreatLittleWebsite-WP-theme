@@ -1,0 +1,19 @@
+/*
+ Theme Name:   THIS NEW child theme
+ Theme URI:    http://THISURL.com
+ Description:  THIS NEW child theme
+ Author:       Victor Gerard Temprano
+ Author URI:   http://tempranova.com
+ Template:     glwparent
+ Version:      1.0.0
+ Tags:         responsive-layout, accessibility-ready
+ Text Domain:  glwparent
+*/
+
+
+@import url("../glwparent/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("style.php/main.scss");

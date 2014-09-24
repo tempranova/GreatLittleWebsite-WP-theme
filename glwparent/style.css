@@ -1,0 +1,16 @@
+/*
+Theme Name: Great Little Website (Parent)
+Theme URI: http://greatlittlewebsite.com/
+Author: Victor Gerard Temprano
+Author URI: http://tempranova.com/
+Description: This is a general working prototype theme for use by Great Little Website in creating specific child themes for clients and for general consumption. This template is meant to be kept up to date with full HTML5, SASS, and Bootstrap integrated smoothly.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, two-columns, right-sidebar, left-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, responsive, mobile-first, html5, SASS, CSS, JS, bootstrap
+Text Domain: greatlittlewebsite
+
+Thanks for using GLW!
+*/
+
+@import url("style.php/main.scss");
