@@ -27,7 +27,7 @@
       <div id="logo">
         <a href="<?php bloginfo('url'); ?>">
           <img src="<?php echo get_template_directory_uri() . '/../glwparent-child/images/logo.jpg' ?>" alt="<?php bloginfo('name') ?> logo">
-          <!-- <?php bloginfo('name'); ?> to get the name of the site instead of logo -->
+          <!-- <?php // bloginfo('name'); ?> to get the name of the site instead of logo -->
         </a>
       </div>
 
@@ -61,6 +61,9 @@
 
                   wp_nav_menu($args);
                 ?>
+            
+              <!-- If you want a search in the bar, here is code -->
+              <?php // get_search_form(); ?>
 
           </div>
         </div>
