@@ -1,7 +1,7 @@
 <?php
 
 // Declare Woocommerce support
-// add_theme_support( 'woocommerce' );
+add_theme_support( 'woocommerce' );
 
 // Register Custom Navigation Walker
 require_once('wp_bootstrap_navwalker.php');
