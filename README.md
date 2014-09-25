@@ -10,7 +10,6 @@ I like to be able to copy and paste and work directly with each project, so that
 ----
 <h3>To Do...</h3>
 <ol>
-<li>Clean up the install and remove extraneous files</li>
 <li>Set up SASS properly and modularly, get rid of default code</li>
 <li>Incorporate various Bootstrap templates neatly as functions or page templates (still pastable)</li>
 <li>Add HTML5 elements, microdata</li>
