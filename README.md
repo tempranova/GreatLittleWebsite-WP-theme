@@ -18,9 +18,10 @@ I like to be able to copy and paste and work directly with each project, so that
 
 <h2>What's included?</h2>
 <ul>
-<li>SASS (SCSSPHP)</li>
-<li>Bootstrap (with Navwalker)</li>
+<li>SASS (<a href="http://leafo.net/scssphp/">SCSSPHP</a>) (or just CSS if you want)</li>
+<li>Bootstrap (with <a href="https://github.com/twittem/wp-bootstrap-navwalker">Navwalker</a> for tiered menus)</li>
 <li>jQuery</li>
+<li><a href="https://github.com/woothemes/woocommerce">WooCommerce</a> support</li>
 </ul>
 
 <h2>What's Coming Soon?</h2>
@@ -29,6 +30,4 @@ I like to be able to copy and paste and work directly with each project, so that
 <li>More Bootstrap features</li>
 </ul>
 
-Thanks:
-http://leafo.net/scssphp/
-https://github.com/twittem/wp-bootstrap-navwalker
+
