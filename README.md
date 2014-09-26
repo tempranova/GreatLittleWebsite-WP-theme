@@ -12,7 +12,7 @@ I like to be able to copy and paste and work directly with each project, so that
 <ol>
 <li>Incorporate various Bootstrap templates neatly as functions or page templates (still pastable)</li>
 <li>Add HTML5 elements, microdata</li>
-<li>Improve SASS by adding more default classes/common mixins</li>
+<li>Improve SASS by adding more default classes/common mixins, clean up SASS in glwparent</li>
 </ol>
 ----
 
