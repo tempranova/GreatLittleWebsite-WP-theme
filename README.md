@@ -13,6 +13,7 @@ I like to be able to copy and paste and work directly with each project, so that
 <li>Incorporate various Bootstrap templates neatly as functions or page templates (still pastable)</li>
 <li>Add HTML5 elements, microdata</li>
 <li>Improve SASS by adding more default classes/common mixins, clean up SASS in glwparent</li>
+<li>Add back-end selection for uploading logo and doing some basic color additions, then also for selecting which Bootstrap templates to use, which categories to use with them, incorporating as page templates, and more</li>
 </ol>
 ----
 
