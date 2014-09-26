@@ -10,9 +10,9 @@ I like to be able to copy and paste and work directly with each project, so that
 ----
 <h3>To Do...</h3>
 <ol>
-<li>Set up SASS properly and modularly, get rid of default code</li>
 <li>Incorporate various Bootstrap templates neatly as functions or page templates (still pastable)</li>
 <li>Add HTML5 elements, microdata</li>
+<li>Improve SASS by adding more default classes/common mixins</li>
 </ol>
 ----
 
@@ -23,6 +23,10 @@ I like to be able to copy and paste and work directly with each project, so that
 <li>jQuery</li>
 <li><a href="https://github.com/woothemes/woocommerce">WooCommerce</a> support</li>
 </ul>
+
+<p>A note on SASS. I'm not really THAT into being a CSS or SASS nerd - I just use it to style things, thanks. Since this template is including Bootstrap by default, obviously a lot of styling is already handled.</p>
+<p>A larger empty SASS project folder with some setup (from a Treehouse tutorial) is built in just in case. But mostly I am only changing fonts, a few colors, and some basic positioning and spacing. So the SCSS I have set up reflects those needs.</p>
+<p>My basic SASS includes some default styles and common classes I use.</p>
 
 <h2>What's Coming Soon?</h2>
 <ul>
