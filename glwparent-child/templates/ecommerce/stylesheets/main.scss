@@ -1,0 +1,48 @@
+/* Here's all the SASS for this project! */
+
+$base_url: 'http://localhost/xtremeoffice/wp-content/themes/glwparent-child';
+
+header {
+  background: #0070a2;
+  color:white;
+}
+.logo {
+  padding:10px;
+  background:white;
+  margin:10px 0px;
+  border-radius:5px;
+}
+.location-text {
+  padding:10px 0px 0px 0px;
+  margin:0;
+}
+.navbar {
+  background: #0388c4;
+  padding-top:5px;
+}
+.navbar-collapse {
+  padding-left:0px;
+  padding-right:0px;
+}
+.nav {
+  background: #eeeeee; /* Old browsers */
+  background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+  border:none;
+  border-radius:5px;
+}
+.navbar li a {
+  color:#333;
+}
+.nav>li>a:hover, .nav>li>a:focus {
+  background:#cccccc;
+}
+.no-top {
+  padding-top:0px;
+  margin-top:0px;
+}
