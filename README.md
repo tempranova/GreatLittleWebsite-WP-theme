@@ -10,10 +10,11 @@ I like to be able to copy and paste and work directly with each project, so that
 ----
 <h3>To Do...</h3>
 <ol>
-<li>Incorporate various Bootstrap templates neatly as functions or page templates (still pastable)</li>
 <li>Add HTML5 elements, microdata</li>
-<li>Improve SASS by adding more default classes/common mixins, clean up SASS in glwparent</li>
+<li>Clean up Bootstrap templates with dynamic code, HTML5, clean samples, proper paths</li>
+<li>Incorporate templates as includes</li>
 <li>Add back-end selection for uploading logo and doing some basic color additions, then also for selecting which Bootstrap templates to use, which categories to use with them, incorporating as page templates, and more</li>
+<li>Improve SASS by adding more default classes/common mixins, clean up SASS in glwparent</li>
 </ol>
 ----
 
@@ -34,5 +35,3 @@ I like to be able to copy and paste and work directly with each project, so that
 <li>HTML5, microformats</li>
 <li>More Bootstrap features</li>
 </ul>
-
-
